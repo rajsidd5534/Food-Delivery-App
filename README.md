@@ -32,7 +32,7 @@ A real-world **Full Stack Food Delivery Application** built using **React, Sprin
 - Checkout with Razorpay
 - Order tracking and history
 
-### 🛠️ Admin Panel
+### Admin Panel
 - Admin login
 - CRUD operations on food items
 - Upload product images to AWS S3
